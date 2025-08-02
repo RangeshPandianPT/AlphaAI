@@ -29,15 +29,6 @@ Alpha Trend AI is a deep learning-powered tool designed to predict stock price t
 ---
 
 
-.
-├── stock_predictor.py          # Main LSTM model code
-├── app.py                      # Streamlit app interface
-├── utils.py                    # Utility functions for indicators
-├── requirements.txt            # Python dependencies
-├── model_weights.h5            # Trained model weights
-├── README.md                   # Project documentation
-└── sample_outputs/             # Graphs and prediction images
-````
 
 
 ## 🔮 Future Enhancements
@@ -55,7 +46,7 @@ Alpha Trend AI is a deep learning-powered tool designed to predict stock price t
 
 ## ✍️ Author
 
-Developed with ❤️ by RANGESHPANDIAN PT
+Developed with  by RANGESHPANDIAN PT
 
 ```
 
